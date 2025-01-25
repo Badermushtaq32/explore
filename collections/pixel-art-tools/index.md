@@ -1,4 +1,4 @@
----
+-nft--
 items:
  - aseprite/aseprite/
  - piskelapp/piskel/
